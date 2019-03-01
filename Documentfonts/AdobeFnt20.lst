@@ -1,0 +1,120 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowSemiCondensed-Medium
+FamilyName:Barlow Semi Condensed
+StyleName:Medium
+MenuName:Barlow Semi Condensed Medium
+StyleBits:0
+WeightClass:500
+WidthClass:4
+AngleClass:0
+FullName:Barlow Semi Condensed Medium
+WritingScript:Roman
+OutlineFileName:/Users/jeffsylvester/Everest Realty Dropbox/Jeff_Files/Website/Leadership Page Folder/Document fonts/BarlowSemiCondensed-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:85184
+FileModTime:568365746
+NameArray:0,Mac,4,Barlow Semi Condensed Medium
+NameArray:0,Win,1,Barlow Semi Condensed Medium
+NameArray:0,Win,16,Barlow Semi Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BarlowSemiCondensed-Regular
+FamilyName:Barlow Semi Condensed
+StyleName:Regular
+MenuName:Barlow Semi Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:4
+AngleClass:0
+FullName:Barlow Semi Condensed Regular
+WritingScript:Roman
+OutlineFileName:/Users/jeffsylvester/Everest Realty Dropbox/Jeff_Files/Website/Leadership Page Folder/Document fonts/BarlowSemiCondensed-Regular_0.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:85532
+FileModTime:568340917
+NameArray:0,Mac,4,Barlow Semi Condensed Regular
+NameArray:0,Win,1,Barlow Semi Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TypoldCondensed-Medium
+FamilyName:Typold Condensed
+StyleName:Medium
+MenuName:Typold Condensed Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Typold Condensed Medium
+WritingScript:Roman
+OutlineFileName:/Users/jeffsylvester/Everest Realty Dropbox/Jeff_Files/Website/Leadership Page Folder/Document fonts/Typold-Condensed-Medium.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:195940
+FileModTime:568365750
+NameArray:0,Mac,4,Typold Condensed Medium
+NameArray:0,Win,1,Typold Condensed Medium
+NameArray:0,Win,16,Typold Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TypoldCondensed-Regular
+FamilyName:Typold Condensed
+StyleName:Regular
+MenuName:Typold Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Typold Condensed Regular
+WritingScript:Roman
+OutlineFileName:/Users/jeffsylvester/Everest Realty Dropbox/Jeff_Files/Website/Leadership Page Folder/Document fonts/Typold-Condensed-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:200860
+FileModTime:568365740
+NameArray:0,Mac,4,Typold Condensed Regular
+NameArray:0,Win,1,Typold Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Typold-Regular
+FamilyName:Typold
+StyleName:Regular
+MenuName:Typold
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Typold Regular
+WritingScript:Roman
+OutlineFileName:/Users/jeffsylvester/Everest Realty Dropbox/Jeff_Files/Website/Leadership Page Folder/Document fonts/Typold-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:200324
+FileModTime:568366532
+NameArray:0,Mac,4,Typold Regular
+NameArray:0,Win,1,Typold
+%EndFont
+

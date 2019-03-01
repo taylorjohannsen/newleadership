@@ -1,0 +1,167 @@
+@font-face {
+    font-family: BarlowM;
+    src: url('./Documentfonts/BarlowSemiCondensed-Medium.ttf');
+}
+@font-face {
+    font-family: BarlowR;
+    src: url('./Documentfonts/BarlowSemiCondensed-Regular_0.ttf');
+}
+@font-face {
+    font-family: TypoldM;
+    src: url('./Documentfonts/Typold-Condensed-Medium.ttf');
+}
+@font-face {
+    font-family: TypoldR;
+    src: url('./Documentfonts/Typold-Condensed-Regular.ttf');
+}
+@font-face {
+    font-family: TypoldNC;
+    src: url('./Documentfonts/Typold-Regular.ttf');
+}
+
+.myColors {
+    background-color: rgb(186, 174, 125);
+    background-color: rgb(57, 53, 54);
+}
+
+body {
+    font-family: TypoldNC;
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+.topNav {
+    background-color: rgb(186, 174, 125);
+    height: 50px;
+}
+.botNav {
+    background-color: rgb(57, 53, 54);
+    height: 105px;
+}
+.textColor {
+    color: rgb(57, 53, 54);
+    font-family: TypoldM, sans-serif;
+    font-size: 11px;
+    padding-right: 30px;
+    padding-top: 17px;
+}
+.botColor {
+    color: white;
+    font-family: TypoldR, sans-serif;
+    font-size: 14px;
+    padding-left: 30px;
+}
+.navFlex {
+    padding-top: 37px;
+}
+.noDec {
+    text-decoration: none;
+}
+.margins {
+    margin-left: 22%;
+    margin-right: 22%;
+}
+.socIcon {
+    height: 25px;
+    width: 25px;
+    border-radius: 30px;
+    padding-top: 12px;
+}
+.goldFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.brownFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.logoC21 {
+    height: 50px;
+    padding-top: 30px;
+}
+.leadershipFlex {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.rowFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.linkCont {
+    display: flex;
+    flex-direction: row;
+}
+.leadLink {
+    color: rgb(186, 174, 125);
+    font-family: BarlowR;
+    font-size: 18px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.leadLink:hover {
+    color: rgba(186, 174, 125, 0.795);
+}
+.leaderText {
+    color: rgb(57, 53, 54);
+    font-size: 35px;
+    font-family: TypoldM;
+    padding-top: 20px;
+}
+.bigName {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(186, 174, 125);
+    margin-bottom: 30px;
+}
+.bigNameSecond {
+    text-align: center;
+    font-size: 30px;
+    color: rgb(186, 174, 125);
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
+.faceCont {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-left: 22%;
+    margin-right: 22%;
+    flex-wrap: wrap;
+}
+.Profile {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-family: TypoldNC;
+    width: 200px;
+    padding-bottom: 40px;
+}
+.profImg {
+    height: 180px;
+}
+.imgCont {
+    height: 130px;
+    width: 130px;
+    overflow: hidden;
+    border-radius: 170px;
+}
+.profName {
+    font-size: 15px;
+}
+.profTitle {
+    font-size: 10px;
+}
+.profNum {
+    font-size: 14px;
+    font-family: BarlowM;
+    font-weight: 300;
+}
+.profEmail {
+    font-size: 12px;
+    font-family: BarlowR;
+}
