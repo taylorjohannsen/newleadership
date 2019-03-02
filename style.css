@@ -85,7 +85,7 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin-bottom: 50px;
+    margin-bottom: 40px;
 }
 .rowFlex {
     display: flex;
@@ -117,6 +117,7 @@ body {
     font-size: 30px;
     color: rgb(186, 174, 125);
     margin-bottom: 30px;
+    margin-top: 30px;
 }
 .bigNameSecond {
     text-align: center;
@@ -128,9 +129,14 @@ body {
 .faceCont {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    margin-left: 22%;
-    margin-right: 22%;
+    margin-left: 20%;
+    margin-right: 20%;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.center {
+    display: flex;
+    flex-direction: row;
     flex-wrap: wrap;
 }
 .Profile {
@@ -139,7 +145,7 @@ body {
     text-align: center;
     font-family: TypoldNC;
     width: 200px;
-    padding-bottom: 40px;
+    padding-bottom: 50px;
 }
 .profImg {
     height: 180px;
@@ -164,4 +170,16 @@ body {
 .profEmail {
     font-size: 12px;
     font-family: BarlowR;
+    color: rgb(57, 53, 54);
+}
+
+@media only screen and (max-width: 1200px) {
+    .margins {
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+    .faceCont {
+        margin-left: 1%;
+        margin-right: 1%;
+    }
 }
